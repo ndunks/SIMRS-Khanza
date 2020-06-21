@@ -1,0 +1,7 @@
+**/dist
+**/build
+**/nbproject/**
+!**/nbproject/project.properties
+!**/nbproject/project.xml
+lib/
+*err*.log
